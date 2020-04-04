@@ -1,0 +1,16 @@
+---
+layout: page
+---
+
+<h2>Technologien:</h2>
+<p>Diese Seite wurde mit <a href="http://jekyllrb.com/">Jekyll</a> und <a href="https://github.com/sylhare/Type-on-Strap">Type-on-Strap</a> erstellt.</p>
+
+<h2>Ressourcen:</h2>
+{% for attribution_tuple in site.data.attributions %}
+{% assign attribution = attribution_tuple[1] %}
+  <p><strong><a href="{{ attribution.url }}">{{ attribution.name }}</a>:</strong></p>
+  {% for source_tuple in attribution.sources %}
+  {% assign source = source_tuple[1] %}
+    <p class="attribution"><a href="{{ source.res_url }}">{{ source.res_name }}</a>&nbsp;von&nbsp;<a href="{{ source.url }}">{{ source.name }}</a></p>
+  {% endfor %}
+{% endfor %}

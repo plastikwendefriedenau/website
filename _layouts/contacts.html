@@ -1,0 +1,22 @@
+---
+layout: page
+---
+
+{% for author_tuple in site.data.authors %}
+  {% assign author = author_tuple[1] %}
+  {% unless author.system.hide %}
+    <h1 class="contact-header">
+      <img src="{{ author.system.avatar | default: site.data.authors.unknown.system.avatar | relative_url }}" alt="Avatar" title="{{ author.name }}">
+      <span>{{ author.name }}</span>
+    </h1>
+    <div class="contact-body">
+    <p><strong>Email:</strong> <a href="mailto:{{ author.email }}" alt="Email von {{ author.name }}">{{ author.email }}</a></p>
+    {% if author.phone %}
+    <p><strong>Telefon:</strong> <a href="tel:{{ author.phone }}" alt="Telefonnummer von {{ author.name }}">{{ author.phone }}</a></p>
+    {% endif %}
+    {% if author.url %}
+    <p><strong>Url:</strong> <a href="{{ author.url }}" alt="Webseite von {{ author.name }}">{{ author.url }}</a></p>
+    {% endif %}
+    <div class="contact-body">
+  {% endunless %}
+{% endfor %}

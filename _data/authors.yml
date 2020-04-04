@@ -1,0 +1,24 @@
+admin: # author-id
+  system:
+    hide: true
+    avatar: "assets/img/logo.svg"
+  name: "Administrator"
+  url: "https://github.com/friedenauplastikfrei"
+  phone:
+  email:
+karenp:
+  system:
+    hide: false
+    avatar:
+  name: Karen
+  url: "https://example.org"
+  phone: "1234567890"
+  email: "karenp@example.org"
+unknown:
+  system:
+    hide: true
+    avatar: "assets/img/avatars/placeholder.svg"
+  name: Unknown
+  url:
+  phone:
+  email:
