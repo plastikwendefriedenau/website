@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Herbstfest Friedrich-Wilhelm-Platz
+title: Herbstfest
 author: karenp
 event-date: 2020-09-19
 tags: [Veranstaltung]
