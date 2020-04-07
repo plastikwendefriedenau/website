@@ -4,9 +4,8 @@ title: BioCompany
 tags: [Empfehlung]
 excerpt_separator: <!--mehr-->
 ---
-
-Einige der BioCompany Filialen bieten eine unverpackt Abteilung mit Nüssen, Getreide, Hülsenfrüchten an.
 <!--mehr-->
+Einige der BioCompany Filialen bieten eine unverpackt Abteilung mit Nüssen, Getreide, Hülsenfrüchten an.
 Folgenden Filialen bieten dies an:  
  1. **Chausseestr.**
  2. **Yorkstr.**

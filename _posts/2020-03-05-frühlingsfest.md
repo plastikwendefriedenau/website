@@ -9,7 +9,7 @@ excerpt_separator: <!--mehr-->
 ---
 
 Auf dem Friedrich-Wilhelm-Platz.
-
+<!--mehr-->
 Die Initiative in Friedenau stellen sich vor.
 
 Mit Gewinnspiel und Infostand.
