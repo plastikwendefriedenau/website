@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Wildcafè
+title: wild caffè
 feature-img: "/assets/img/cafe_wildcafe.jpg"
 tags: [Empfehlung]
 excerpt_separator: <!--mehr-->
 ---
 
-Südwestcorso 63  
+Südwestkorso 63  
 12161 Berlin
