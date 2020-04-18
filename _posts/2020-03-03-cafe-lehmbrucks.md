@@ -6,5 +6,6 @@ tags: [Empfehlung]
 excerpt_separator: <!--mehr-->
 ---
 
-Fehlertstr. 1  
+Fehlerstraße 1
+
 12161 Berlin
