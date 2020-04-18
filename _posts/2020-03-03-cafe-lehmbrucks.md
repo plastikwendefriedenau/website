@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cafè Lehmbrucks
+title: Café Lehmbrucks
 feature-img: "/assets/img/cafe_lehmbrucks.jpg"
 tags: [Empfehlung]
 excerpt_separator: <!--mehr-->
