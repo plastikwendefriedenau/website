@@ -2,7 +2,8 @@
 layout: post
 title: Frühlingsfest Friedenau
 author: karenp
-event-date: 2020-05-17
+event-date-sort: 2020-05-17
+event-date: "17.05.2020"
 event-time: "14:00 - 18:00"
 tags: [Veranstaltung]
 excerpt_separator: <!--mehr-->

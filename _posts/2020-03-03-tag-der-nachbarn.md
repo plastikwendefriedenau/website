@@ -2,7 +2,8 @@
 layout: post
 title: Tag der Nachbarn
 author: karenp
-event-date: 2020-05-29
+event-date-sort: 2020-05-29
+event-date: "29.05.2020"
 tags: [Veranstaltung]
 excerpt_separator: <!--mehr-->
 ---
