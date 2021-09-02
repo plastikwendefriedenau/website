@@ -11,12 +11,12 @@ layout: default
     {% endunless %}
   </header>
   {% if page.event-date or page.event-time %}
-  <section>
+  <section class="event-date">
     {% if page.event-date %}
-    <span class="event-date">{{ page.event-date }}</span>
+    <strong class="event-date">{{ page.event-date }}</strong>
     {% endif %}
     {% if page.event-time %}
-    <span>{{ page.event-time }} Uhr</span>
+    <strong>{{ page.event-time }} Uhr</strong>
     {% endif %}
   </section>
   {% endif %}
@@ -61,6 +61,6 @@ layout: default
   }
   
   .event-date {
-    margin-right: 1em;
+    margin: 0 1em 1em 0;
   }
 </style>
