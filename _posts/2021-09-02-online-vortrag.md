@@ -11,4 +11,5 @@ excerpt_separator: <!--mehr-->
 
 Online-Vortrag VHS Zehlendorf<!--mehr-->
 
+19:00 Uhr  
 Kursnr. SZ115-101d
