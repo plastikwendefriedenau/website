@@ -25,6 +25,29 @@ bis hin zur plastikfreien Kosmetik. Dafür geben wir Informationen und hilfreich
 **Wir fordern mehr Konsequenz von Politik und Verwaltung und fordern Unternehmen auf,
 den Einsatz von Plastik zu reduzieren.**
 
+**Deutschland** ist **Europameister:** wir produzieren pro Kopf den meisten Plastikmüll.
+Pro Jahr summiert er sich bei uns auf 5,2 Millionen Tonnen. Davon werden nur 15,6 % recycelt.
+
+Unser Müll reist durch die ganze Welt. 1,04 Millionen Tonnen Kunststoffabfälle waren es 2018.
+Zurzeit ist Malaysia unsere größte **Auslands-Müllkippe**.
+
+1400 Tonnen deutscher Plastikmüll landen jährlich im **Meer** und können nicht abgebaut werden.
+Der Müll wird also immer mehr.
+
+**Im Jahr 2050** wird es mehr Plastikmüll als Fische in den Meeren geben, **wenn wir nichts ändern**.
+
+Der Plastikmüll zerfällt in der Natur zu **Mikroplastik** und kehrt so zu uns zurück:  
+Mikroplastik ist im Trinkwasser, in der Atemluft und in unseren Körpern.  
+Die Menge des Mikroplastik, das wir **pro Woche** zu uns nehmen,
+entspricht dem Gewicht einer Kreditkarte.
+
+Jüngste Forschungen bestätigen die gesundheitlichen Gefahren in unseren Körpern durch
+Mikroplastik einerseits und durch die aus dem Plastik gelösten Chemikalien andererseits.
+
+Gesundheitliche Schäden sind z.B.  
+Krebs, Fettleibigkeit, Diabetes, Hyperaktivität/ADHS, Asthma,
+Entwicklungsstörungen, Schilddrüsenerkrankungen, Unfruchtbarkeit, Nervenerkrankungen.
+
 ## Friedenau plastikfrei
 - bündelt couragiertes Handeln und gute Ideen in der Nachbarschaft,
 - freut sich über neue engagierte MitstreiterInnen,
