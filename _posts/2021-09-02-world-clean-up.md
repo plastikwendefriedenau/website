@@ -9,9 +9,7 @@ tags: [Veranstaltung]
 excerpt_separator: <!--mehr-->
 ---
 
-Im Volkspark Wilmersdorf<!--mehr-->
+World Clean-up day im Volkspark Wilmersdorf<!--mehr-->
 
-World Clean-up day im Volkspark Wilmersdorf
-
-Treffpunkt: Friedrich-Ebert-Oberschule,
+Treffpunkt: Friedrich-Ebert-Oberschule,  
 Blissestr. 22, 10713 Berlin
