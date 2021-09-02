@@ -9,7 +9,7 @@ tags: [Veranstaltung]
 excerpt_separator: <!--mehr-->
 ---
 
-Vortrag von R. Peinert & Film "Plastic Planet"<!--mehr-->
+Vortrag von R. Peinert und Film "Plastic Planet"<!--mehr-->
 
 18:00 Uhr Vortrag von Meeresbiologe Rolf Peinert  
 Anschließend Film "Plastic Planet"
