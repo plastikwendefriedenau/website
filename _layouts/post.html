@@ -10,6 +10,16 @@ layout: default
       {% include post_info.html author=page.author date=page.date %}
     {% endunless %}
   </header>
+  {% if page.event-date or page.event-time %}
+  <section>
+    {% if page.event-date %}
+    <span class="event-date">{{ page.event-date }}</span>
+    {% endif %}
+    {% if page.event-time %}
+    <span>{{ page.event-time }} Uhr</span>
+    {% endif %}
+  </section>
+  {% endif %}
   <section class="post-content">
   {% if page.bootstrap %}
     <div class="bootstrap-iso">
@@ -48,5 +58,9 @@ layout: default
     background-repeat:no-repeat;
     {% if page.feature-img %} background-image: url('{{ page.feature-img | relative_url }}');
     {% elsif page.color %}background-image: url('{{ site.color_image | relative_url }}');  {% endif %}
+  }
+  
+  .event-date {
+    margin-right: 1em;
   }
 </style>
