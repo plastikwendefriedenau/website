@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 In Europa ist Deutschland der Staat mit dem höchsten pro Kopf Anteil von Plastikmüll.
 Durchschnittlich produziert Deutschland pro Jahr 5,2 Millionen Tonnen, wovon nur 15,6 % recycelt werden.
 1400 Tonnen deutscher Plastikmüll landen jährlich im Meer und können nicht abgebaut werden. Der Müll wird also immer mehr!
