@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title: World Clean-up Day
 author: karenp
 event-date-sort: 2021-09-18

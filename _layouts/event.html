@@ -1,0 +1,16 @@
+---
+layout: post
+---
+
+{% if page.event-date or page.event-time %}
+<section style="margin: 0 1em 1em 0;">
+  {% if page.event-date %}
+    <strong style="margin: 0 1em 1em 0;">{{ page.event-date }}</strong>
+  {% endif %}
+  {% if page.event-time %}
+    <strong>{{ page.event-time }} Uhr</strong>
+  {% endif %}
+</section>
+{% endif %}
+
+{{content}}

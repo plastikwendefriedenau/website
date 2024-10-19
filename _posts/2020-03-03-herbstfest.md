@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title: Herbstfest
 author: karenp
 event-date-sort: 2020-09-19
