@@ -1,5 +1,5 @@
 ---
-layout: special-posts
+layout: cards
 title: Veranstaltungen
 permalink: /veranstaltungen/
 feature-img: "assets/img/garbage.jpg"
