@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll", ">= 3.5", "< 5.0"
-gem "type-on-strap", "2.1.2"
+gem "type-on-strap", "2.4.10"
 
 group :jekyll_plugin do
   gem "jekyll-feed", "~> 0.9"

@@ -1,6 +1,6 @@
 # Localization strings
 str_follow_on: "Follow on"
-str_rss_follow: "RSS feed"
+str_rss_follow: "Follow RSS feed"
 str_share_on: "Share on"
 str_add_to: "Add to"
 str_email: "Email"
@@ -10,3 +10,14 @@ str_next_post: "Nächster Eintrag"
 str_previous_post: "Vorheriger Eintrag"
 str_next_page: "Weiter"
 str_previous_page: "Zurück"
+str_javascript_required_disqus: "Please enable JavaScript to view comments."
+str_no_result_found: "No result found"
+str_cookie_approve: "Approve"
+str_cookie_disclaimer: "We would like to use third party cookies and scripts to improve the functionality of this website."
+str_months: [Januar, Februar, März, April, Mai, Juni, Juli, August, September, Oktober, November, Dezember]
+str_dark: 'Dark'
+str_light: 'Light'
+str_date_format: '%B %-d, %Y'
+
+# Localization settings
+cusdis_lang: # zh-cn, es, tr, pt-BR
