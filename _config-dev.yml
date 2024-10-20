@@ -1,0 +1,3 @@
+# GitHub is not able to find this theme, so we have to split this configuration
+# out into a separate file.
+theme: type-on-strap
