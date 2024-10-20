@@ -8,6 +8,7 @@ favicon: "assets/favicon.ico"
 
 header_text: '<img alt="logo" src="/assets/img/logo.svg">'
 header_feature_image: "assets/img/garbage.jpg"
+header_feature_image_responsive: true
 footer_text: '<a href="/impressum">Impressum</a>, <a href="/datenschutz">Datenschutzerklärung</a>, <a href="/attribution">Attribution</a>'
 
 excerpt: true
