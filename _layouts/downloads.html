@@ -4,7 +4,7 @@ layout: page
 
 <div>
 {% for file in site.static_files %}
-  {% if file.path contains page.files %}
+  {% if file.path contains "/assets/infobriefe/" and file.path contains ".pdf" %}
     <p><i class="fa fa-file-download-o" aria-hidden="true"></i><a href="{{ file.path | relative_url }}">{{ file.path | split: "/" | last }}</a></p>
   {% endif %}
 {% endfor %}
