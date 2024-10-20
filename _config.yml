@@ -7,7 +7,7 @@ avatar: "assets/img/logo.svg"
 favicon: "assets/favicon.ico"
 
 header_text: '<img alt="logo" src="/assets/img/logo.svg">'
-header_feature_image: "assets/img/pixabay/garbage-2369821_1920-cropped.jpg"
+header_feature_image: "assets/img/garbage.jpg"
 footer_text: '<a href="/impressum">Impressum</a>, <a href="/datenschutz">Datenschutzerklärung</a>, <a href="/attribution">Attribution</a>'
 
 excerpt: true
