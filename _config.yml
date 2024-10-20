@@ -14,5 +14,4 @@ footer_text: '<a href="/impressum">Impressum</a>, <a href="/datenschutz">Datensc
 excerpt: true
 post_navigation: true
 
-theme: type-on-strap
 remote_theme: sylhare/Type-on-Strap
