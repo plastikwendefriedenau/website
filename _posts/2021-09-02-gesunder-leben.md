@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title: Gesünder Leben
 author: karenp
 event-date-sort: 2021-09-29

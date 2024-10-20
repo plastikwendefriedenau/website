@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title: Online-Vortrag
 author: karenp
 event-date-sort: 2021-10-27

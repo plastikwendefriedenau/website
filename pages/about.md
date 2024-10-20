@@ -2,7 +2,7 @@
 layout: page
 title: Über uns
 permalink: /about/
-feature-img: "assets/img/pixabay/garbage-2369821_1920-cropped.jpg"
+feature-img: "assets/img/garbage.jpg"
 navbar-pos: 1
 tags: [About, Archiv]
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title: Vortrag und Film
 author: karenp
 event-date-sort: 2021-10-21

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title: Plastikfrei Leben
 author: karenp
 event-date-sort: 2021-10-28

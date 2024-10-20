@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title: Frühlingsfest Friedenau
 author: karenp
 event-date-sort: 2020-05-17

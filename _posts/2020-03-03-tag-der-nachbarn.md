@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title: Tag der Nachbarn
 author: karenp
 event-date-sort: 2020-05-29

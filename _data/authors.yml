@@ -1,15 +1,7 @@
-admin: # author-id
-  system:
-    hide: true
-    avatar: "assets/img/logo.svg"
-  name: "Administrator"
-  url: "https://github.com/friedenauplastikfrei"
-  phone:
-  email:
 karenp:
   system:
     hide: false
-    avatar:
+    avatar: "assets/img/avatars/placeholder.svg"
   name: Karen
   url: "https://friedenauplastikfrei.de/"
   phone: "+49 (0)176 43073657"

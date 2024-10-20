@@ -1,8 +1,8 @@
 ---
-layout: special-posts
+layout: cards
 title: Veranstaltungen
 permalink: /veranstaltungen/
-feature-img: "assets/img/pixabay/garbage-2369821_1920-cropped.jpg"
+feature-img: "assets/img/garbage.jpg"
 navbar-pos: 4
 tag-filter: Veranstaltung
 tags: [Veranstaltungen]
