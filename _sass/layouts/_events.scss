@@ -1,0 +1,61 @@
+.events {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  position: relative;
+}
+
+.event-list {
+  list-style: none;
+  width: 100%;
+}
+
+.event {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+
+  @media screen and (max-width: $sm-break) {
+    grid-template-columns: 100%;
+  }
+
+  .image {
+    figure {
+      display: block;
+      position: relative;
+      width: 100%;
+
+      .image {
+        text-align: center;
+      }
+
+      .category {
+        position: absolute;
+        top: 0;
+        left: 0;
+        padding: 0.4em;
+        font-weight: bold;
+        color: white;
+        background-color: #2f3787;
+      }
+    }
+  }
+
+  .description {
+    h1 {
+      font-size: 20pt;
+    }
+  }
+
+  .details {
+    margin: auto;
+
+    div {
+      margin-top: 0.4em;
+    }
+
+    i {
+      padding-right: 0.5em;
+      width: 2em;
+    }
+  }
+}

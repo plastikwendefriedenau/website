@@ -1,10 +1,10 @@
 ---
 layout: event
-title: Plastikfrei Leben
+title: "Kursangebot: Plastikfrei leben"
 author: karenp
-event-date-sort: 2021-10-28
-event-date: "28.10.2021"
-event-time: "18:00 - 20:15"
+time: "18:00 - 20:15"
+location: Nochmall
+category: Workshop
 tags: [Veranstaltung]
 excerpt_separator: <!--mehr-->
 ---
