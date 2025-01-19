@@ -4,7 +4,8 @@ layout: page
 
 {% if page.tag-filter %}
   <div class="card-grid">
-    {% for post in site.posts %}
+    {% assign posts = (site.posts | where_exp: "e", "e.date >= site.time") %}
+    {% for post in posts %}
       {% unless post.tags contains 'Archiv' %}
       {% if post.tags contains page.tag-filter %}
         <a class="card-cell" aria-label="{{ post.title }}" href="{{ post.url | relative_url }}">
