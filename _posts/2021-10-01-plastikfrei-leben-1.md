@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Plastikfrei Leben
+title: "Kursangebot: Plastikfrei leben"
 author: karenp
 time: "18:00 - 20:15"
 location: Nochmall
