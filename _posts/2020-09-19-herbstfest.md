@@ -2,7 +2,7 @@
 layout: event
 title: Herbstfest
 author: karenp
-tags: [Veranstaltung, Archiv]
+tags: [Veranstaltung]
 excerpt_separator: <!--mehr-->
 ---
 

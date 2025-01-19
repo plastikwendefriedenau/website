@@ -6,7 +6,6 @@ layout: page
   <div class="card-grid">
     {% assign posts = (site.posts | where_exp: "e", "e.date >= site.time") %}
     {% for post in posts reversed %}
-      {% unless post.tags contains 'Archiv' %}
       {% if post.tags contains page.tag-filter %}
         <a class="card-cell" aria-label="{{ post.title }}" href="{{ post.url | relative_url }}">
             <figure style="background-image: url({{ site.data.placeholder.post-img | relative_url }}">
@@ -20,7 +19,6 @@ layout: page
           </figure>
         </a>
       {% endif %}
-      {% endunless %}
     {% endfor %}
   </div>
 {% else %}
