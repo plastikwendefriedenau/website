@@ -2,8 +2,6 @@
 layout: event
 title: Plastikfrei Leben
 author: karenp
-event-date-sort: 2021-10-01
-event-date: "01.10.2021"
 event-time: "18:00 - 20:15"
 tags: [Veranstaltung]
 excerpt_separator: <!--mehr-->
