@@ -3,6 +3,8 @@ layout: event
 title: World Clean-up Day
 author: karenp
 time: "14:00 - 17:00"
+location: Friedrich-Ebert-Oberschule
+category: Veranstaltung
 tags: [Veranstaltung]
 excerpt_separator: <!--mehr-->
 ---

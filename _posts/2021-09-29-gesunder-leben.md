@@ -3,6 +3,8 @@ layout: event
 title: Gesünder Leben
 author: karenp
 time: "18:00 - 20:15"
+location: VHS Pankow
+category: Workshop
 tags: [Veranstaltung]
 excerpt_separator: <!--mehr-->
 ---

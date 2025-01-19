@@ -3,6 +3,8 @@ layout: event
 title: Online-Vortrag
 author: karenp
 time: "19:00"
+location: Online
+category: Vortrag
 tags: [Veranstaltung]
 excerpt_separator: <!--mehr-->
 ---

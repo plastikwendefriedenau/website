@@ -3,6 +3,8 @@ layout: event
 title: Vortrag und Film
 author: karenp
 time: "18:00"
+location: Kirche zum Guten Hirten
+category: Vortrag
 tags: [Veranstaltung]
 excerpt_separator: <!--mehr-->
 ---
