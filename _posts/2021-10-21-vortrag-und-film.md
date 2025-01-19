@@ -2,7 +2,7 @@
 layout: event
 title: Vortrag und Film
 author: karenp
-event-time: "18:00"
+time: "18:00"
 tags: [Veranstaltung]
 excerpt_separator: <!--mehr-->
 ---

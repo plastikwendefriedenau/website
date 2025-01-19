@@ -2,7 +2,7 @@
 layout: event
 title: Plastikfrei Leben
 author: karenp
-event-time: "18:00 - 20:15"
+time: "18:00 - 20:15"
 tags: [Veranstaltung]
 excerpt_separator: <!--mehr-->
 ---

@@ -9,7 +9,7 @@ layout: page
       {% if post.tags contains page.tag-filter %}
         <a class="card-cell" aria-label="{{ post.title }}" href="{{ post.url | relative_url }}">
             <figure style="background-image: url({{ site.data.placeholder.post-img | relative_url }}">
-            <div class="date">{{ post.date | date: "%d.%m.%Y" }}{% if post.event-time %} &nbsp; {{ post.event-time }}{% endif %}</div>
+            <div class="date">{{ post.date | date: "%d.%m.%Y" }}{% if post.time %} &nbsp; {{ post.time }}{% endif %}</div>
             <figcaption>
               <h3>{{ post.title }}</h3>
               <p title="{{ post.title }}">

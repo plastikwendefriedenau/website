@@ -2,7 +2,7 @@
 layout: event
 title: Frühlingsfest Friedenau
 author: karenp
-event-time: "14:00 - 18:00"
+time: "14:00 - 18:00"
 tags: [Veranstaltung, Archiv]
 excerpt_separator: <!--mehr-->
 ---

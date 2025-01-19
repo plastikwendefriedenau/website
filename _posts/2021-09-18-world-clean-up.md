@@ -2,7 +2,7 @@
 layout: event
 title: World Clean-up Day
 author: karenp
-event-time: "14:00 - 17:00"
+time: "14:00 - 17:00"
 tags: [Veranstaltung]
 excerpt_separator: <!--mehr-->
 ---
