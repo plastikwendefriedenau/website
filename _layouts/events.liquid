@@ -2,25 +2,45 @@
 layout: page
 ---
 
-{% if page.tag-filter %}
-  <div class="card-grid">
-    {% assign posts = (site.posts | where_exp: "e", "e.date >= site.time") %}
-    {% for post in posts reversed %}
-      {% if post.tags contains page.tag-filter %}
-        <a class="card-cell" aria-label="{{ post.title }}" href="{{ post.url | relative_url }}">
-            <figure style="background-image: url({{ site.data.placeholder.post-img | relative_url }}">
-            <div class="date">{{ post.date | date: "%d.%m.%Y" }}{% if post.time %} &nbsp; {{ post.time }}{% endif %}</div>
-            <figcaption>
-              <h3>{{ post.title }}</h3>
-              <p title="{{ post.title }}">
-                  {{ post.excerpt | strip_html | escape }}
-              </p>
-            </figcaption>
-          </figure>
-        </a>
-      {% endif %}
-    {% endfor %}
-  </div>
-{% else %}
-  <p>No tag-filter set!!!</p>
-{% endif %}
+<div class="events">
+    <ul class="event-list">
+        {% assign posts = (site.posts | where_exp: "e", "e.date >= site.time") %}
+        {% for post in posts reversed %}
+        {% if post.tags contains page.tag-filter %}
+        <li>
+            <article class="event">
+                <div class="image">
+                    <figure>
+                        <div class="image"><img src="{{ site.data.placeholder.event-img | relative_url }}"></div>
+                        {% if post.category %}
+                        <div class="category">{{ post.category }}</div>
+                        {% endif %}
+                    </figure>
+                </div>
+                <div class="description">
+                    <h1>{{ post.title}}</h1>
+
+                    {{ post.excerpt | strip_html | escape }}
+
+                    <br/>
+
+                    <a href="{{ post.url | relative_url }}">Weiterlesen.</a>
+                </div>
+                <div class="details">
+                    {% if post.location %}
+                    <div><i class="fa fa-map-marker"></i>{{ post.location }}</div>
+                    {% endif %}
+                    <div class="date"><i class="fa fa-calendar"></i>{{ post.date | date: "%d.%m.%Y" }}
+                    {% if post.time %}
+                    <div class="time"><i class="fa fa-clock"></i>{{ post.time }}</div>
+                    {% endif %}
+                    {% if post.fee %}
+                    <div class="time"><i class="fa fa-money-bill"></i>{{ post.fee }}</div>
+                    {% endif %}
+                </div>
+            </article>
+        </li>
+        {% endif %}
+        {% endfor %}
+    </ul>
+</div>

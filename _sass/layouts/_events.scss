@@ -1,70 +1,61 @@
-.card-grid {
+.events {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   position: relative;
-  width: 100vw;
-  left: 50%;
-  margin-left: -50vw;
 }
 
-.card-cell {
-  text-decoration: none;
-  width: 17em;
-  height: 22em;
-  display: block;
-  margin: 1em 2em;
+.event-list {
+  list-style: none;
+  width: 100%;
+}
+
+.event {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+
   @media screen and (max-width: $sm-break) {
-    width: 9em;
-    height: 12em;
-    margin: .5em .5em;
+    grid-template-columns: 100%;
   }
 
-  figure {
-    position: relative;
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    border: 1px solid #000;
-    border-radius: 15px;
-    color: white;
-    -webkit-transition: .2s;
-    -moz-transition: .2s;
-    transition: .2s;
-    &:hover {
-      transform: translate(0, -10px);
-    }
-
-    .date {
-      position: absolute;
-      top: 0;
-      right: 0;
-      padding: .25em .5em;
-      background-color: rgba(0,0,0,.66);
-      font-weight: bold;
-      text-shadow: 1px 1px black;
-    }
-
-    figcaption {
-      text-shadow: 1px 1px black;
-      background-color: rgba(0,0,0,.66);
+  .image {
+    figure {
+      display: block;
+      position: relative;
       width: 100%;
-      position: absolute;
-      bottom: 0;
-      padding: 1em;
-      line-height: 1.5;
-      margin: 0;
-      @media screen and (max-width: $sm-break) {
-        font-size: 1em;
+
+      .image {
+        text-align: center;
       }
 
-      h3 {
+      .category {
+        position: absolute;
+        top: 0;
+        left: 0;
+        padding: 0.4em;
+        font-weight: bold;
         color: white;
-        margin: 0 0 10px;
+        background-color: #2f3787;
       }
+    }
+  }
+
+  .description {
+    h1 {
+      font-size: 20pt;
+    }
+  }
+
+  .details {
+    margin: auto;
+
+    div {
+      margin-top: 0.4em;
+    }
+
+    i {
+      padding-right: 0.5em;
+      width: 2em;
     }
   }
 }
