@@ -11,6 +11,7 @@ header_feature_image: "assets/img/garbage.jpg"
 header_feature_image_responsive: true
 footer_text: '<a href="/impressum">Impressum</a>, <a href="/datenschutz">Datenschutzerklärung</a>, <a href="/attribution">Attribution</a>'
 
+future: true
 excerpt: true
 post_navigation: true
 
