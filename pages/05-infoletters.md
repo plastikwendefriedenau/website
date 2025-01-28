@@ -6,5 +6,4 @@ permalink: /infobriefe/
 feature-img: "assets/img/garbage.jpg"
 files: "/assets/infobriefe"
 files_suffix: ".pdf"
-tags: [Infobriefe, Downloads]
 ---

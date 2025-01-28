@@ -15,4 +15,12 @@ future: true
 excerpt: true
 post_navigation: true
 
+collections:
+  blog:
+    output: true
+  events:
+    output: true
+  recommendations:
+    output: true
+
 remote_theme: sylhare/Type-on-Strap
