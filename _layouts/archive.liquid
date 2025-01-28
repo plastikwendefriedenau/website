@@ -4,8 +4,7 @@ layout: page
 
 <div class="home">
     <div id="archive">
-        {% assign filteredPosts = site.posts | where_exp: "p", "p.tags contains page.tag-filter" %}
-        {% assign postsByYear = filteredPosts | group_by_exp:"post", "post.date | date: '%Y'"  %}
+        {% assign postsByYear = site.[[page.collection]] | group_by_exp:"post", "post.date | date: '%Y'"  %}
         <ul class="archive-clouds">
             {% for year in postsByYear %}
                 <a href="#archive-{{ year.name | cgi_escape }}" class="archive-anchor">
