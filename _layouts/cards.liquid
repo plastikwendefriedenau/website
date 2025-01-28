@@ -9,10 +9,8 @@ layout: page
       <figure style="background-image: url(
 {% if post.feature-img %}
 '{{ post.feature-img | relative_url }}'
-{% elsif post.event-date %}
-'{{ site.data.placeholder.event-img | relative_url }}'
-{% elsif post.tags contains 'Empfehlung' %}
-'{{ site.data.placeholder.recommendation-img | relative_url }}'
+{% elsif page.placeholder %}
+'{{ site.data.placeholder.[[page.placeholder]] | relative_url }}'
 {% else %}
 '{{ site.data.placeholder.card-img | relative_url }}'
 {% endif %})">
