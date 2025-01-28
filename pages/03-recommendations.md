@@ -1,6 +1,6 @@
 ---
 layout: cards
-title: Empfohlene Geschäfte
+title: Kiez-Tipps
 permalink: /empfehlungen/
 feature-img: "assets/img/garbage.jpg"
 collection: "recommendations"
