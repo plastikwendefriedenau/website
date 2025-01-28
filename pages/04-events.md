@@ -4,5 +4,4 @@ title: Veranstaltungen
 permalink: /veranstaltungen/
 feature-img: "assets/img/garbage.jpg"
 tag-filter: Veranstaltung
-tags: [Veranstaltungen]
 ---
