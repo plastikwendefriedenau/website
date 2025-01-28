@@ -2,7 +2,6 @@
 layout: post
 title: Sirplus
 author: karenp
-tags: [Empfehlung]
 excerpt_separator: <!--mehr-->
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Basic Biomarkt
-tags: [Empfehlung]
 excerpt_separator: <!--mehr-->
 ---
 

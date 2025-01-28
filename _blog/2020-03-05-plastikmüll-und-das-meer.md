@@ -2,7 +2,6 @@
 layout: post
 title: Plastikmüll und das Meer
 author: karenp
-tags: [Blog]
 excerpt_separator: <!--mehr-->
 ---
 

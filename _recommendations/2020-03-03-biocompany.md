@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BioCompany
-tags: [Empfehlung]
 excerpt_separator: <!--mehr-->
 ---
 <!--mehr-->

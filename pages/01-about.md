@@ -3,7 +3,6 @@ layout: page
 title: Über uns
 permalink: /about/
 feature-img: "assets/img/garbage.jpg"
-tags: [About, Archiv]
 ---
 
 # Nachbarschaftsinitiative Friedenau plastikfrei

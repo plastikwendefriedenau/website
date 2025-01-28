@@ -2,7 +2,6 @@
 layout: page
 title: Datenschutzerklärung
 permalink: /datenschutz/
-tags: [Datenschutzerklärung, Archiv]
 hide: true
 ---
 

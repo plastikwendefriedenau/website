@@ -5,7 +5,6 @@ author: karenp
 time: "18:00 - 20:15"
 location: Nochmall
 category: Workshop
-tags: [Veranstaltung]
 excerpt_separator: <!--mehr-->
 ---
 

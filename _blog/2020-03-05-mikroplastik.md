@@ -2,7 +2,6 @@
 layout: post
 title: Mikroplastik
 author: karenp
-tags: [Blog]
 excerpt_separator: <!--mehr-->
 ---
 

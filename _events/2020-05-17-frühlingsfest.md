@@ -5,7 +5,6 @@ author: karenp
 time: "14:00 - 18:00"
 category: Veranstaltung
 location: Friedrich-Wilhelm-Platz
-tags: [Veranstaltung]
 excerpt_separator: <!--mehr-->
 ---
 

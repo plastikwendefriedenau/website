@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Unverpackt Lychener Str.
-tags: [Empfehlung]
 excerpt_separator: <!--mehr-->
 ---
 

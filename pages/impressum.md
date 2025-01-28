@@ -2,7 +2,6 @@
 layout: page
 title: Impressum
 permalink: /impressum/
-tags: [Impressum, Archiv]
 hide: true
 ---
 

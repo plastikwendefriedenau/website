@@ -2,7 +2,6 @@
 layout: post
 title: Café Adèle
 feature-img: "/assets/img/cafe_adele.jpg"
-tags: [Empfehlung]
 excerpt_separator: <!--mehr-->
 ---
 
