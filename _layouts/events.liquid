@@ -4,8 +4,8 @@ layout: page
 
 <div class="events">
     <ul class="event-list">
-        {% assign posts = site.[[page.collection]] %}
-        {% for post in posts reversed %}
+        {% assign posts = (site.[[page.collection]] | where_exp: "e", "e.date >= site.time") %}
+        {% for post in posts %}
         <li>
             <article class="event">
                 <div class="image">
