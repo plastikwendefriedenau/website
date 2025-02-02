@@ -2,3 +2,20 @@
 @import 'layouts/cards';
 @import 'layouts/contacts';
 @import 'layouts/events';
+
+p {
+  line-height: 1.4;
+}
+
+.picture-inline {
+  float: right;
+  width: 45%;
+
+  img {
+    padding: 2% 2%;
+  }
+
+  @media screen and (max-width: $sm-break) {
+    width: 100%;
+  }
+}
