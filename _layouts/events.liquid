@@ -10,7 +10,11 @@ layout: page
             <article class="event">
                 <div class="image">
                     <figure>
-                        <div class="image"><img src="{{ site.data.placeholder.event-img | relative_url }}"></div>
+                        <div class="image">
+                            <a href="{{ post.url | relative_url }}">
+                                <img src="{{ site.data.placeholder.event-img | relative_url }}">
+                            </a>
+                        </div>
                         {% if post.category %}
                         <div class="category">{{ post.category }}</div>
                         {% endif %}
