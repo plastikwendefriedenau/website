@@ -1,5 +1,6 @@
 ---
 layout: home
+hide: true
 ---
 
 # Friedenau Plastikfrei
