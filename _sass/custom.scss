@@ -3,6 +3,10 @@
 @import 'layouts/contacts';
 @import 'layouts/events';
 
+p {
+  line-height: 1.4;
+}
+
 .picture-inline {
   float: right;
   width: 45%;
