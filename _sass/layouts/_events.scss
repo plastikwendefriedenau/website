@@ -13,6 +13,8 @@
 .event {
   display: grid;
   grid-template-columns: 1fr 2fr 1fr;
+  padding-left: 8%;
+  padding-right: 8%;
 
   @media screen and (max-width: $sm-break) {
     grid-template-columns: 100%;
