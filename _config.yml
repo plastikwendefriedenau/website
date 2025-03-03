@@ -20,7 +20,9 @@ collections:
     output: true
   events:
     output: true
+    permalink: /veranstaltungen/:name
   recommendations:
     output: true
+    permalink: /empfehlungen/:name
 
 remote_theme: sylhare/Type-on-Strap
