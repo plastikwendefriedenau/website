@@ -1,0 +1,23 @@
+---
+layout: page
+---
+
+<div class="recommendations-grid">
+{% assign sorted_posts = site.[[page.collection]] %}
+{% for post in sorted_posts %}
+    <div class="recommendations-item">
+        <a href="{{ post.url | relative_url }}">
+            <img src="{{ post.recommendation-img | relative_url }}"></img>
+        </a>
+        <div class="recommendations-text">
+            <a href="{{ post.url | relative_url }}">
+                <h3>{{ post.title }}</h3>
+            </a>
+
+            <div>
+                <div><i class="fa fa-map-marker"></i>{{ post.address }}</div>
+            </div>
+        </div>
+    </div>
+{% endfor %}
+</div>

@@ -1,0 +1,46 @@
+.recommendations-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  position: relative;
+}
+
+.recommendations-item {
+  width: 45%;
+  max-width: 740px;
+  margin: 0.5em;
+
+  padding: 0.4em;
+  padding-bottom: 1em;
+  border-radius: 0.5em;
+  background: rgb(245, 245, 245);
+
+  @media screen and (max-width: $sm-break) {
+    width: 80%;
+  }
+
+  img {
+    border-radius: 0.5em;
+    padding: 0.2em;
+    background: white;
+  }
+
+  .recommendations-text {
+    text-align: center;
+
+    i {
+      padding-right: 0.5em;
+      width: 2em;
+    }
+  }
+}
+
+.recommendation-header {
+  text-align: center;
+  padding-bottom: 2em;
+
+  i {
+    padding-right: 0.5em;
+    width: 2em;
+  }
+}
