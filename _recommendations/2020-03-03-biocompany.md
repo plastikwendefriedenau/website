@@ -2,6 +2,7 @@
 layout: recommendation
 title: BioCompany
 address: Bundesallee 104-105, 12161 Berlin
+recommendation-img: "assets/recommendations/placeholder-food.webp"
 ---
 
 Einige der BioCompany Filialen bieten eine unverpackt Abteilung mit Nüssen, Getreide, Hülsenfrüchten an.

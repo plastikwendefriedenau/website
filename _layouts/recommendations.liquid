@@ -7,12 +7,7 @@ layout: page
 {% for post in sorted_posts %}
     <div class="recommendations-item">
         <a href="{{ post.url | relative_url }}">
-            <img src={% if post.recommendation-img %}
-                        "{{ post.recommendation-img | relative_url }}"
-                     {% else %}
-                        "{{ site.data.placeholder.[[page.placeholder]] | relative_url }}"
-                     {% endif %})>
-            </img>
+            <img src="{{ post.recommendation-img | relative_url }}"></img>
         </a>
         <div class="recommendations-text">
             <a href="{{ post.url | relative_url }}">
