@@ -9,10 +9,8 @@ layout: page
       <figure style="background-image: url(
 {% if post.feature-img %}
 '{{ post.feature-img | relative_url }}'
-{% elsif page.placeholder %}
-'{{ site.data.placeholder.[[page.placeholder]] | relative_url }}'
 {% else %}
-'{{ site.data.placeholder.card-img | relative_url }}'
+'{{ site.data.placeholder.[[page.placeholder]] | relative_url }}'
 {% endif %})">
         {% if post.event-date %}
         <div class="date">{{ post.event-date }}{% if post.event-time %} &nbsp; {{ post.event-time }}{% endif %}</div>
