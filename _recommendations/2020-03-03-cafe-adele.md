@@ -2,8 +2,5 @@
 layout: recommendation
 title: Café Adèle
 feature-img: "/assets/img/cafe_adele.jpg"
-excerpt_separator: <!--mehr-->
+address: Bundesallee 142, 12161 Berlin
 ---
-
-Bundesallee 142  
-12161 Berlin

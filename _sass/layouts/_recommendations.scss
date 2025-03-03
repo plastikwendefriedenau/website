@@ -27,5 +27,20 @@
 
   .recommendations-text {
     text-align: center;
+
+    i {
+      padding-right: 0.5em;
+      width: 2em;
+    }
+  }
+}
+
+.recommendation-header {
+  text-align: center;
+  padding-bottom: 2em;
+
+  i {
+    padding-right: 0.5em;
+    width: 2em;
   }
 }

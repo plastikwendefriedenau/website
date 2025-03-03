@@ -2,8 +2,5 @@
 layout: recommendation
 title: wild caffè
 feature-img: "/assets/img/cafe_wildcafe.jpg"
-excerpt_separator: <!--mehr-->
+address: Südwestkorse 63, 12161 Berlin
 ---
-
-Südwestkorso 63  
-12161 Berlin

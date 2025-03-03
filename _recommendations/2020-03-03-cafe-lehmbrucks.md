@@ -2,9 +2,5 @@
 layout: recommendation
 title: Café Lehmbrucks
 feature-img: "/assets/img/cafe_lehmbrucks.jpg"
-excerpt_separator: <!--mehr-->
+address: Fehlerstr. 1, 12161 Berlin
 ---
-
-Fehlerstraße 1
-
-12161 Berlin

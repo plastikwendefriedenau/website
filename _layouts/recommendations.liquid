@@ -18,7 +18,10 @@ layout: page
             <a href="{{ post.url | relative_url }}">
                 <h3>{{ post.title }}</h3>
             </a>
-            {{ post.excerpt | strip_html | escape }}
+
+            <div>
+                <div><i class="fa fa-map-marker"></i>{{ post.address }}</div>
+            </div>
         </div>
     </div>
 {% endfor %}
