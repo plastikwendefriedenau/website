@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recommendation
 title: Café Adèle
 feature-img: "/assets/img/cafe_adele.jpg"
 excerpt_separator: <!--mehr-->

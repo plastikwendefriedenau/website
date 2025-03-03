@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recommendation
 title: Café Lehmbrucks
 feature-img: "/assets/img/cafe_lehmbrucks.jpg"
 excerpt_separator: <!--mehr-->

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recommendation
 title: BioCompany
 excerpt_separator: <!--mehr-->
 ---
