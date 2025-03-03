@@ -12,9 +12,6 @@ layout: page
 {% else %}
 '{{ site.data.placeholder.[[page.placeholder]] | relative_url }}'
 {% endif %})">
-        {% if post.event-date %}
-        <div class="date">{{ post.event-date }}{% if post.event-time %} &nbsp; {{ post.event-time }}{% endif %}</div>
-        {% endif %}
         <figcaption>
           <h3>{{ post.title }}</h3>
           {% if site.excerpt or site.theme_settings.excerpt %}
