@@ -1,4 +1,4 @@
-.card-grid {
+.recommendations-grid {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -8,7 +8,7 @@
   margin-left: -50vw;
 }
 
-.card-cell {
+.recommendations-item {
   text-decoration: none;
   width: 17em;
   height: 22em;

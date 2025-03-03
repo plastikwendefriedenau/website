@@ -1,5 +1,5 @@
 ---
-layout: cards
+layout: recommendations
 title: Kiez-Tipps
 permalink: /empfehlungen/
 feature-img: "assets/img/garbage.jpg"
