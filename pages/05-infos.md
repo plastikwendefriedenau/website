@@ -5,6 +5,10 @@ permalink: /infos/
 feature-img: "assets/img/garbage.jpg"
 ---
 
+## Weiterführende Links
+
+- [Weglassen - Macht Verzicht glücklich?](https://www.zdf.de/kultur/aspekte/verzicht-fasten-glueck-100.html)
+
 ## Infobriefe
 
 {% for file in site.static_files %}
