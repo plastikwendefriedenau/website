@@ -18,6 +18,9 @@ post_navigation: true
 collections:
   blog:
     output: true
+  campaigns:
+    output: true
+    permalink: /kampagnen/:name
   events:
     output: true
     permalink: /veranstaltungen/:name
