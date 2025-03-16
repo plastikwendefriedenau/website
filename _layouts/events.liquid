@@ -12,7 +12,11 @@ layout: page
                     <figure>
                         <div class="image">
                             <a href="{{ post.url | relative_url }}">
-                                <img src="{{ site.data.placeholder.event-img | relative_url }}">
+                                {% if post.image %}
+                                    <img src="{{ post.image | relative_url }}">
+                                {% else %}
+                                    <img src="{{ site.data.placeholder.event-img | relative_url }}">
+                                {% endif %}
                             </a>
                         </div>
                         {% if post.category %}
