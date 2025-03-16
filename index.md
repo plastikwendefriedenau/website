@@ -24,7 +24,7 @@ und Anlaufstellen für interessierte und engagierte Gleichgesinnte.
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 60%;">
     <a class="button" href="/veranstaltungen">Veranstaltungen</a>
     <a class="button" href="/empfehlungen">Nachhaltiges im Kiez</a>
-    <a class="button" href="/infobriefe">Infomaterial</a>
+    <a class="button" href="/infos">Infomaterial</a>
 </div>
 
 ### Plastikmüll – Warum ist das ein Problem?
